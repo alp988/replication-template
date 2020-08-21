@@ -17,4 +17,6 @@ vignettes/*.pdf
 .DS_Store
 
 
+*hunger.R
+
 
